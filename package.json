@@ -1,0 +1,24 @@
+{
+  "name": "webpack-demo-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack"
+  },
+  "keywords": [],
+  "author": "Praveen RL",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  },
+  "bugs": {
+    "url": "https://github.com/PraveenRL/Webpack/issues"
+  },
+  "homepage": "https://github.com/PraveenRL/Webpack#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PraveenRL/Webpack.git"
+  }
+}
